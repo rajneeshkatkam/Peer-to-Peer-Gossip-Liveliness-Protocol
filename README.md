@@ -2,11 +2,12 @@
 
 * Team Members:
 
-    |  Roll No ▼  |   CSE LDAP          |     Name             |
-    |:-----------:|:-------------------:|:--------------------:|
-    |  203050008  |  imsagartyagi       |   Sagar Tyagi        |
-    |  203050086  |  rajneeshkatkam     |   Rajneesh Katkam    |
-    |  203050110  |     vipin           |   Vipin Mahawar      |
+|     Name             |
+|:--------------------:|
+|   Sagar Tyagi        |
+|   Rajneesh Katkam    |
+|   Vipin Mahawar      |
+
 
 
 * Disclaimer
